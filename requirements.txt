@@ -1,4 +1,4 @@
-autopep8==1.4.4
+black==19.10b0
 jupyter==1.0.0
 matplotlib==3.0.2
 mypy==0.701
